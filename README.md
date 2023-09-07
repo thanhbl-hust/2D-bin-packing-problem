@@ -1,5 +1,7 @@
 ![Screenshot 2023-09-06 193108](https://github.com/thanhbl-hust/2D-Bin-Packing-Problem/assets/117031677/820b546e-b081-4776-9224-3c16e5241f40)
 
+[Source picture](https://github.com/solomon-b/greedypacker)
+
  ## Contents
 - [Reason](#reason)
 
